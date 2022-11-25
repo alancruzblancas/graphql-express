@@ -16,6 +16,8 @@ You can run the following commands to pull and run docker image from docker ofic
 ```
     node run start
 ```
+If you are testing in local server you can set in your browser http://localhost:4000/graphql
+
 
 ## Installation and configuration
 ```
