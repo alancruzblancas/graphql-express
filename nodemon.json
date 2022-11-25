@@ -1,0 +1,8 @@
+{
+    "env": {
+        "mongoDatabase":"blog_application",
+        "mongoUserName":"admin",
+        "mongoUserPassword":"gr4phlql",
+        "port":4001
+    }
+}

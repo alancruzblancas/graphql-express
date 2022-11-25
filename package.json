@@ -1,0 +1,18 @@
+{
+  "name": "graphql-project",
+  "version": "1.0.0",
+  "description": "Graphql project for course",
+  "main": "app.js",
+  "author": "alan cruz",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0",
+    "mongoose": "^6.7.1"
+  },
+  "scripts":{
+    "start":"nodemon app.js"
+  }
+}
